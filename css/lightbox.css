@@ -177,7 +177,7 @@ body.lb-disable-scrolling {
   display: none;
   clear: left;
   padding-bottom: 1em;
-  font-size: 12px;
+  font-size: 0px;
   color: #999999;
 }
 
