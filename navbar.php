@@ -79,7 +79,7 @@ h2 {
 </head>
 <body>
 <div class="topnav" id="myTopnav">
-  <a href="avaleht.php" class="<?php if($page=='home'){echo 'active';}?>">Avaleht</a>
+  <a href="index.php" class="<?php if($page=='home'){echo 'active';}?>">Avaleht</a>
   <a href="meist.php" class="<?php if($page=='about'){echo 'active';}?>">Meist</a>
   <a href="kontakt.php" class="<?php if($page=='contact'){echo 'active';}?>">Kontakt</a>
   <a href="gallery.php" class="<?php if($page=='gallery'){echo 'active';}?>">Galerii</a>
