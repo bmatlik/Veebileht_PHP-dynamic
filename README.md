@@ -2,4 +2,4 @@
 # See on dünaamiline veebileht, mis on tehtud PHP-ga.
 HTML, CSS, Javascript ja PHP on kasutatud tehnoloogiad.
 
-Valmis lehehekülg: harjutamephpd.epizy.com/
+Valmis lehehekülg: http://harjutamephpd.epizy.com/
