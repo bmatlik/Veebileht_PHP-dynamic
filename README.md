@@ -1,5 +1,5 @@
 ![Galerii](/images/galerii.png)
 # See on dünaamiline veebileht, mis on tehtud PHP-ga.
-HTML, CSS, Javascript ja PHP on kasutatud tehnoloogiad.
+HTML, CSS, Javascript ja PHP on kasutatud tehnoloogiad veebilehe jaoks.
 
-Valmis lehehekülg: http://harjutamephpd.epizy.com/
+Valmis veebileht: http://harjutamephpd.epizy.com/
