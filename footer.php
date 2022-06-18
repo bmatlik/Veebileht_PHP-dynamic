@@ -170,7 +170,7 @@ li i {
    
 <!--   Footer Bottom start  -->
   <div class="footer-bottom">
-    Copyright &copy; Benjamin 2022.
+    Copyright &copy; 2022.
   </div>
 </div>
 
